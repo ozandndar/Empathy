@@ -1,5 +1,7 @@
 ## Empathy - iOS & Android App for the 2019 IEEEmadC Mobile Application Development Contest
 
+# [=> Github Link <=](https://github.com/ozandndar/Empathy/tree/master)
+
 <p align="center"> 
 <img src="http://empati.ozandundar.com/contents/empati.jpeg" with="600" height="400" /></p>
 The aim of the application we want to do is to teach the Turkish Sign Language.
@@ -22,7 +24,7 @@ The aim of the application we want to do is to teach the Turkish Sign Language.
 
 
 ## Promotional Video
-We created a promotional video and uploaded it to Youtube. Please click on the image to watch our video:[![Watch our video](http://empati.ozandundar.com/contents/empati.jpeg)](https://www.youtube.com/watch?v=Zy44ONV4ASs)
+We created a promotional video and uploaded it to Youtube. Please click on the image to watch our video:[![Watch our video](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmeow9-_WEWX-lfuzhImFMPpE6umYfKAWiXpweh5RmSXKtdQm6)](https://www.youtube.com/watch?v=IniI7lXsI2c)
 
 
 ## Description
